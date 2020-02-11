@@ -3,7 +3,7 @@
 Simple implementation comunication to SQLite Databasse using Enitity.
 
 
-#Technoligies:
+# Technoligies:
 - .net core
 - EntityFrameworkCore
 - SQLite
