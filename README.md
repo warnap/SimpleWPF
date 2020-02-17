@@ -1,6 +1,6 @@
 # SimpleWPF
 
-Simple implementation comunication to SQLite Databasse using Enitity.
+Simple implementation of comunication to SQLite Databasse using Enitity.
 
 
 ## Technologies:
